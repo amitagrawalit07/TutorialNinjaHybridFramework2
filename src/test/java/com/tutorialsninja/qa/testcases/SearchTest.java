@@ -14,7 +14,7 @@ public class SearchTest extends Base{
 	
 	public WebDriver driver;
 	SearchPage searchPage;
-	//updated comment
+	//updated comment with more details
 	public SearchTest() {
 		super();
 	}
